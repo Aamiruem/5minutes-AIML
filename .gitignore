@@ -1,0 +1,25 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Node.js and build output
+node_modules/
+dist/
+build/
+coverage/
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
+
+# Editors and operating systems
+.vscode/.ropeproject/
+.DS_Store
+Thumbs.db
+*.log
