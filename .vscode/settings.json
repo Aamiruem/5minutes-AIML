@@ -225,6 +225,6 @@
         "titleBar.activeBackground": "#11111B",
         "titleBar.activeForeground": "#CDD6F4",
         "input.background": "#313244",
-        "input.border": "#45475A",
+        "input.border": "#45475A"
     }
 }
